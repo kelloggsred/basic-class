@@ -89,6 +89,6 @@ log.add_task("Finish DailyLog class")
 log.add_task("Push code to GitHub")
 log.complete_task("Finish DailyLog class")
 
-log.add_notes("Keep it simple, but make it expandable for later assignments.")
+log.add_notes("Keep it simpledont over do it.")
 
 log.summary()
