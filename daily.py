@@ -4,6 +4,10 @@ DailyLog (practical second-brain style)
 """
 
 #ok im am 8 shots deep and felt let coding lets do this!!
+#ok got the basic info done lets get the basic infor imput done
+#ok lets do the fancy display now
+#ok lets do a use case now
+#and done and ready to submit!
 
 from datetime import date
 
@@ -17,7 +21,7 @@ class DailyLog:
         self.mood = None
         self.notes = ""
 
-    # ---basic infor---
+    # ---basic info---
 
     def add_win(self, win):
         self.wins.append(win)
